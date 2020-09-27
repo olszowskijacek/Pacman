@@ -9,7 +9,7 @@
 }
 
 .pacman-right {
-
+    transform: rotate(0);
 }
 .pacman-left {
     transform: rotateY(180deg);
