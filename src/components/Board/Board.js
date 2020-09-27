@@ -9,11 +9,10 @@ class Board extends Component {
             <div className='board'>
                 {/* <Food /> */}
                 <Pacman />
-                <Ghost color='yellow'/>
-                <Ghost color='red'/>
-                <Ghost color='pink'/>
+                {/* <Ghost color='yellow'/> */}
+                {/* <Ghost color='red'/> */}
+                {/* <Ghost color='pink'/> */}
                 <Ghost color='blue'/>
-                {/* <Ghost /> */}
             </div>
         )
     }
